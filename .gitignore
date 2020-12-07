@@ -1,0 +1,36 @@
+### Python ###
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+.coverage*
+htmlcov
+.tox
+coverage.xml
+junit*xml
+.cache
+ceph.conf
+wheelhouse*
+
+.DS_Store
+Thumbs.db
+db.json
+*.log
+.idea/
+node_modules/
+.deploy*/
+public/
+
+# python
+*.py[cow]
+
+# apple temp file of dir
+*.DS_Store
+
+# vim temp file
+*.swp
+
+# dirs
+temps/
+
